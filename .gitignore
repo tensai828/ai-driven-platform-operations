@@ -258,3 +258,5 @@ coverage.json
 
 # Helm lock files - regenerated during build
 **/Chart.lock
+temp_auto_push.bat
+temp_interactive_push.bat
